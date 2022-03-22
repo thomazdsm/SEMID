@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="SEMID" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="SEMID">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/vendor" />
+            <excludedPath local="true" path="$PROJECT_DIR$/storage/framework" />
+            <excludedPath local="true" path="$PROJECT_DIR$/storage/logs" />
+            <excludedPath path="/vendor" />
+            <excludedPath path="/storage/framework" />
+            <excludedPath path="/storage/logs" />
+            <excludedPath path="/.editorconfig" />
+            <excludedPath path="/.env" />
+            <excludedPath path="/.env.example" />
+            <excludedPath path="/.gitattributes" />
+            <excludedPath path="/.gitignore" />
+            <excludedPath path="/.htaccess" />
+            <excludedPath path="/.styleci.yml" />
+            <excludedPath path="/artisan" />
+            <excludedPath path="/composer.json" />
+            <excludedPath path="/composer.lock" />
+            <excludedPath path="/favicon.ico" />
+            <excludedPath path="/index.php" />
+            <excludedPath path="/package.json" />
+            <excludedPath path="/phpunit.xml" />
+            <excludedPath path="/README.md" />
+            <excludedPath path="/robots.txt" />
+            <excludedPath path="/server.php" />
+            <excludedPath path="/web.config" />
+            <excludedPath path="/webpack.mix.js" />
+            <excludedPath path="/~" />
+            <excludedPath path="/public" />
+            <excludedPath local="true" path="$PROJECT_DIR$/public" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
